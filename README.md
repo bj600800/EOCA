@@ -16,3 +16,6 @@ File descriptions:
 6.protein_learning.java：Embedding learning
 
 7.check_matrix.java: Evaluate the accuracy of the model
+
+# Citation
+Li, X., Dou, Z., Sun, Y. et al. A sequence embedding method for enzyme optimal condition analysis. BMC Bioinformatics 21, 512 (2020). https://doi.org/10.1186/s12859-020-03851-5
